@@ -1,0 +1,9 @@
+# Site settings
+title: PHP Cornwall
+tag_text: PHP Cornwall
+description: The homepage of PHP Cornwall
+
+# Build settings
+markdown: kramdown
+
+exclude: ["README.md"]
