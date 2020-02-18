@@ -169,6 +169,7 @@ section.newsletter .button {
   font-weight: bold;
   font-family: Inconsolata, monospace;
   transition: box-shadow 0.25s ease;
+  letter-spacing: 0.04em;
 }
 section.newsletter .button:hover, section.newsletter .button:focus {
   box-shadow: 5px 5px #767EE9;

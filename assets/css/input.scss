@@ -194,6 +194,7 @@ section.newsletter {
     font-weight: bold;
     font-family: Inconsolata, monospace;
     transition: box-shadow 0.25s ease;
+    letter-spacing: 0.04em;
 
     &:hover, &:focus {
       box-shadow: 5px 5px $indigo;
