@@ -93,7 +93,7 @@ h1, h2 {
   z-index: -1;
   border-radius: 5px;
   box-shadow: 8px 8px #e5c5f3;
-  background-size: contain;
+  background-size: 300px;
 }
 .text-image-container .ti-img .ti-img-bg img {
   display: none;
